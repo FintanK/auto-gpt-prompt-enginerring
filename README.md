@@ -16,6 +16,9 @@ Iterative Refinement: Prompt engineering often involves an iterative process of 
 
 Human-in-the-loop Evaluation: Human evaluation and feedback play a crucial role in prompt engineering. Collecting feedback on the quality of model-generated outputs and iteratively refining prompts based on this feedback can improve the overall performance and relevance of the model.
 
-Conclusion:
-
 Auto-GPT prompt engineering is an essential aspect of working with language models like GPT. By carefully designing prompts and instructions, we can guide the model's output, improve relevance, coherence, and accuracy, and achieve desired results in various NLP tasks.
+
+
+## Lessons learned from model development
+
+There are scripts that are developed that will need to be debugged manually so that the models execution can continue. Ideally when these errors occur the developer is notified quickly. These models should be able to run without being constantly supervised. All logs should be saved so that decisions made by the model can be audited if required.
