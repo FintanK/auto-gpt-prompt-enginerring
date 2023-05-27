@@ -31,6 +31,7 @@ These models should be able to run without being constantly supervised. All logs
 
 ## Auto-GPT Plugins
 
+https://autoplugins.vercel.app/ - Community Maintained AutoGPT Plugins.
 
 > For interactionless use, set `ALLOWLISTED_PLUGINS=example-plugin1,example-plugin2,example-plugin3` in your `.env`
 
