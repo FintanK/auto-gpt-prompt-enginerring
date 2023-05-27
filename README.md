@@ -21,4 +21,10 @@ Auto-GPT prompt engineering is an essential aspect of working with language mode
 
 ## Lessons learned from model development
 
-There are scripts that are developed that will need to be debugged manually so that the models execution can continue. Ideally when these errors occur the developer is notified quickly. These models should be able to run without being constantly supervised. All logs should be saved so that decisions made by the model can be audited if required.
+There are scripts that are developed that will need to be debugged manually so that the models execution can continue. 
+
+Ideally when these errors occur the developer is notified quickly. 
+
+These models should be able to run without being constantly supervised. All logs should be saved so that decisions made by the model can be audited if required.
+
+- Ensure that the model has been prompted with the requirement for robust software repositories (unit tested, behavioural tests).
