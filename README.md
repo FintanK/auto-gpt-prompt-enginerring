@@ -2,7 +2,7 @@
 
 Auto-GPT prompt engineering refers to the process of formulating effective prompts or instructions to interact with language models like GPT (Generative Pre-trained Transformer). These prompts help guide the model's output and improve the relevance, coherence, and accuracy of the generated text. Prompt engineering is crucial for fine-tuning models and achieving desired outcomes in various natural language processing (NLP) tasks.
 
-Effective Prompt Engineering Strategies:
+## Effective Prompt Engineering Strategies:
 
 Clear and Specific Instructions: It is essential to provide explicit and unambiguous instructions to guide the model's behavior. Clearly define the task, desired output format, and any constraints. This helps the model understand the expectations and produce relevant responses.
 
